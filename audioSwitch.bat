@@ -1,1 +1,1 @@
-Powershell.exe -ExecutionPolicy remotesigned -File F:\Users\PC\Documents\projects\switchAudio.ps1
+Powershell.exe -ExecutionPolicy remotesigned -File F:\Users\PC\Documents\projects\AudioSwitch\switchAudio.ps1
